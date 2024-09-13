@@ -1,6 +1,6 @@
 Pmms-dui with no publicity
 
-#HOW TO INSTALL
+# HOW TO INSTALL
 
 goto pmms/config.lua
 
